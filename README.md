@@ -82,5 +82,5 @@ This skeleton supports optional self-tests compiled into the firmware.
 
 ---
 
-> *Les gens qui rient de la charpente  
+> *Les gens qui rient des fondations  
 > sont rarement ceux qui habitent la maison.*
