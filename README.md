@@ -82,5 +82,4 @@ This skeleton supports optional self-tests compiled into the firmware.
 
 ---
 
-> *Les gens qui rient des fondations  
-> sont rarement ceux qui habitent la maison.*
+> *On se moque des fondations quand on n’a jamais eu à porter la maison.*
