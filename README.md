@@ -1,6 +1,6 @@
 # firmware_skeleton_espidf
 
-A **firmware skeleton** for **ESP-IDF + FreeRTOS** projects where robustness matters more than novelty.
+A **firmware skeleton** for **ESP-IDF + FreeRTOS** projects.
 
 This repository is **not** a framework and **not** a driver library.  
 It is a disciplined starting point: **clear layers, explicit ownership, no circular dependencies**.
