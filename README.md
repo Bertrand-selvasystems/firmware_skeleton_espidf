@@ -80,6 +80,3 @@ This skeleton supports optional self-tests compiled into the firmware.
 - `main/API_*.*`           : example APIs (intent-level calls)
 - `main/test_selftest.*`   : optional boot selftest
 
----
-
-> *On se moque des fondations quand on n’a jamais eu à porter la maison.*
